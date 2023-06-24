@@ -7,6 +7,9 @@ This is a web based application developed for city related based website in indi
 
 **Project Link** -https://black-coast-015d08a00.3.azurestaticapps.net/
 **Project demo video link** -
+##Azure technologies used for project
+- Static web apps
+- Health bot
 
 ## Features and Functionalities 😃
 
