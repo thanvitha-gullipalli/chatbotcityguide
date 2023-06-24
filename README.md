@@ -25,14 +25,19 @@ This is a web based application developed for city related based website in indi
 
 
 
-
+## Home Page
 ![Screenshot 2023-06-24 215644](https://github.com/thanvitha-gullipalli/chatbotcityguide/assets/128880478/5907b1f9-401b-40e5-951a-a56ddd3d10bc)
+## About Us
 ![Screenshot 2023-06-24 220120](https://github.com/thanvitha-gullipalli/chatbotcityguide/assets/128880478/42aaf4b0-9917-442d-98cf-decf3a71d567)
+## Services
 ![Screenshot 2023-06-24 220148](https://github.com/thanvitha-gullipalli/chatbotcityguide/assets/128880478/a248cb61-d993-4845-8ede-bddca5ac43d7)
+## Packages
 ![Screenshot 2023-06-24 220232](https://github.com/thanvitha-gullipalli/chatbotcityguide/assets/128880478/e3d5bc98-b748-468c-90e9-0fc1312ca773)
-
+## Contact
 ![Screenshot 2023-06-24 220337](https://github.com/thanvitha-gullipalli/chatbotcityguide/assets/128880478/1e74213e-2874-47f0-83c7-3489de18176f)
+## Bookings
 ![Screenshot 2023-06-24 220402](https://github.com/thanvitha-gullipalli/chatbotcityguide/assets/128880478/887fd7d4-d887-4934-ad5e-cc787315ba38)
+## Chatbot
 ![Screenshot 2023-06-24 220442](https://github.com/thanvitha-gullipalli/chatbotcityguide/assets/128880478/41517208-28a8-4120-bbbc-46c8fc7f3665)
 
 
@@ -44,6 +49,5 @@ This is a web based application developed for city related based website in indi
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
 - CSS
-- Bootstrap
 - JavaScript
 # chatbotcityguide
